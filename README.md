@@ -21,7 +21,7 @@ Committed to the ethos of open sourcing, I believe in the power of collaboration
 ## Get in Touch
 <hr>
 I'm always open to new opportunities and collaborations. Feel free to reach out through my 
-(Linkedin Profile)[https://linkedin.com/in/manoj18022003]
+[Linkedin Profile](https://linkedin.com/in/manoj18022003)
 or drop me an email at manojmanoharan1804@gmail.com Find me on GitHub: @Manoj18M04. <br>
 
 Let's connect and explore the exciting world of data together!
