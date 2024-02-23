@@ -12,9 +12,12 @@ Committed to the ethos of open sourcing, I believe in the power of collaboration
 
 ## What You'll Find Here
 <hr>
-* **Data Science Projects:** Explore a variety of projects showcasing expertise in areas such as machine learning, data analysis, and deep learning.
-* **Front-end Web Development:** Dive into projects demonstrating skills in HTML, CSS, JavaScript, and popular frameworks like React.js.
-* **Knowledge Sharing:** I'm passionate about sharing insights and best practices in data science, fostering collaboration within the community.
+
+- **Data Science Projects:** Explore a variety of projects showcasing expertise in areas such as machine learning, data analysis, and deep learning.
+
+- **Front-end Web Development:** Dive into projects demonstrating skills in HTML, CSS, JavaScript, and popular frameworks like React.js.
+
+- **Knowledge Sharing:** I'm passionate about sharing insights and best practices in data science, fostering collaboration within the community.
 
 ## Get in Touch
 <hr>
