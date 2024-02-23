@@ -1,12 +1,11 @@
 # Hi there 👋
 
-Welcome to My GitHub Profile! 👋
 ## About Me
 <hr>
-👋 Hey there! I'm Manoj M, an engineering student deeply passionate about data science and machine learning. 🤖 I thrive on unraveling insights from data and building intelligent systems. 
-💡 Additionally, I enjoy delving into front-end web development to craft engaging user experiences. 
-🌐 Fascinated by space exploration and the intricacies of finance, I'm always exploring new avenues in these domains. 🚀 
-Committed to the ethos of open sourcing, I believe in the power of collaboration and sharing knowledge for collective progress. Let's innovate together and make a meaningful impact! 
+👋 Hey there! I'm Manoj M, an engineering student deeply passionate about data science and machine learning. 🤖 I thrive on unraveling insights from data and building intelligent systems. <br>
+💡 Additionally, I enjoy delving into front-end web development to craft engaging user experiences. <br>
+🌐 Fascinated by space exploration and the intricacies of finance, I'm always exploring new avenues in these domains. 🚀 <br>
+Committed to the ethos of open sourcing, I believe in the power of collaboration and sharing knowledge for collective progress. Let's innovate together and make a meaningful impact! <br><br>
 
 #DataScience #MachineLearning #WebDev #SpaceEnthusiast #FinanceNerd #OpenSourceAdvocate 
 
@@ -21,6 +20,6 @@ Committed to the ethos of open sourcing, I believe in the power of collaboration
 
 ## Get in Touch
 <hr>
-I'm always open to new opportunities and collaborations. Feel free to reach out through my [LinkedIn Profile](https://linkedin.coc/in/manoj18022003) or drop me an email at manojmanoharan1804@gmail.com Find me on GitHub: @Manoj18M04.
+I'm always open to new opportunities and collaborations. Feel free to reach out through my [LinkedIn Profile](https://linkedin.coc/in/manoj18022003) or drop me an email at manojmanoharan1804@gmail.com Find me on GitHub: @Manoj18M04. <br>
 
 Let's connect and explore the exciting world of data together!
