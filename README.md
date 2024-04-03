@@ -8,11 +8,11 @@ I'm a passionate and driven Computer Science student with a focus on Data Scienc
   Sri Eshwar College of Engineering, 2021-2025
 
 - **Certifications 🎓**  
-  - Supervised learning: Regression & Classification, Deeplearning.AI | Coursera, 2024
-  - A Crash Course in Data Science, John Hopkins University | Coursera, 2023
-  - Master Course in Full Stack Development, Great Learning, 2023
-  - Master Course in Full Stack Development, Abdul Bari | Udemy, 2023
-  - SQL(Basics) Hacker Rank, 2023
+  - *Supervised learning: Regression & Classification*, Deeplearning.AI | Coursera, 2024
+  - *A Crash Course in Data Science*, John Hopkins University | Coursera, 2023
+  - *Master Course in Full Stack Development*, Great Learning, 2023
+  - *Mastering in Data Structures & Algorithms using C and C++*, Abdul Bari | Udemy, 2023
+  - *SQL(Basics)*, Hacker Rank, 2023
 
 ## Internship Experience 💼
 - **PNT ACADEMY | Data Science and Analytics Extern**  
@@ -37,6 +37,4 @@ I'm a passionate and driven Computer Science student with a focus on Data Scienc
   Secured finalist position in a college-hosted hackathon, showcasing problem-solving abilities and teamwork skills.
 
 ## Let's Connect! 🤝
-Feel free to reach out to me for collaborations, discussions, or just to say hello! You can find me on
-[LinkedIn](https://www.linkedin.com/in/manojmanoharan18).
-
+Feel free to reach out to me for collaborations, discussions, or just to say hello! You can find me on [LinkedIn](https://www.linkedin.com/in/manojmanoharan18).
