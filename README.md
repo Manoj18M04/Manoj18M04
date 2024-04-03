@@ -1,27 +1,35 @@
-# Hi there 👋
+# 🌟 Manoj Manoharan
 
-## About Me
-<hr>
-👋 Hey there! I'm Manoj M, an engineering student deeply passionate about data science and machine learning. 🤖 I thrive on unraveling insights from data and building intelligent systems. <br>
-💡 Additionally, I enjoy delving into front-end web development to craft engaging user experiences. <br>
-🌐 Fascinated by space exploration and the intricacies of finance, I'm always exploring new avenues in these domains. 🚀 <br>
-Committed to the ethos of open sourcing, I believe in the power of collaboration and sharing knowledge for collective progress. Let's innovate together and make a meaningful impact! <br><br>
+<div align="center">
+  <img src="https://github.com/Manoj18M04/Manoj18M04/blob/main/assets/profile-banner.png" alt="Manoj Manoharan Banner" width="100%">
+</div>
 
-#DataScience #MachineLearning #WebDev #SpaceEnthusiast #FinanceNerd #OpenSourceAdvocate 
+## 🚀 About Me
 
-## What You'll Find Here
-<hr>
+Hello, fellow coder! I'm Manoj, a passionate software enthusiast from India. My journey involves pixels, code, and a dash of caffeine. When I'm not debugging, you'll find me exploring the latest tech trends or playing retro video games.
 
-- **Data Science Projects:** Explore a variety of projects showcasing expertise in areas such as machine learning, data analysis, and deep learning.
+## 🛠️ Tech Stack
 
-- **Front-end Web Development:** Dive into projects demonstrating skills in HTML, CSS, JavaScript, and popular frameworks like React.js.
+- **Languages**: Python, Java, C
+- **Web Development**: HTML, CSS, JavaScript, React JS
+- **Data Science**: Pandas, NumPy, Matplotlib
+- **Machine Learning**: Scikit-learn, TensorFlow
+- **Tools**: VS Code, Jupyter Notebook, Git
 
-- **Knowledge Sharing:** I'm passionate about sharing insights and best practices in data science, fostering collaboration within the community.
+## 📊 GitHub Stats
 
-## Get in Touch
-<hr>
-I'm always open to new opportunities and collaborations. Feel free to reach out through my 
-[Linkedin Profile](https://linkedin.com/in/manoj18022003)
-or drop me an email at manojmanoharan1804@gmail.com Find me on GitHub: @Manoj18M04. <br>
+!Manoj's GitHub Stats
 
-Let's connect and explore the exciting world of data together!
+## 🌐 Connect with Me
+
+!LinkedIn
+!Twitter
+!Portfolio
+
+## 🌈 Fun Facts
+
+- I once wrote a Python script to generate haikus about coffee.
+- My favorite emoji is 🚀 because it represents progress and adventure.
+- I believe in the power of open-source and community-driven development.
+
+Feel free to explore my repositories, contribute, and let's build something amazing together! 🌟
