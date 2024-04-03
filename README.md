@@ -38,5 +38,5 @@ I'm a passionate and driven Computer Science student with a focus on Data Scienc
 
 ## Let's Connect! 🤝
 Feel free to reach out to me for collaborations, discussions, or just to say hello! You can find me on
-<i class="fa-brands fa-linkedin" style="color: #74C0FC;"></i>[LinkedIn](https://www.linkedin.com/in/yourprofile).
+[LinkedIn](https://www.linkedin.com/in/manojmanoharan18).
 
