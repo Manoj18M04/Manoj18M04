@@ -1,35 +1,42 @@
-# 🌟 Manoj Manoharan
+# Hi there! 👋 I'm Manoj Manoharan ✨
 
-<div align="center">
-  <img src="https://github.com/Manoj18M04/Manoj18M04/blob/main/assets/profile-banner.png" alt="Manoj Manoharan Banner" width="100%">
-</div>
+## About Me
+I'm a passionate and driven Computer Science student with a focus on Data Science and Full Stack Development. I love exploring new technologies and solving complex problems with elegant solutions. 
 
-## 🚀 About Me
+## Education 📚
+- **B.E., Computer and Communication Engineering**  
+  Sri Eshwar College of Engineering, 2021-2025
 
-Hello, fellow coder! I'm Manoj, a passionate software enthusiast from India. My journey involves pixels, code, and a dash of caffeine. When I'm not debugging, you'll find me exploring the latest tech trends or playing retro video games.
+- **Certifications 🎓**  
+  - Supervised learning: Regression & Classification, Deeplearning.AI | Coursera, 2024
+  - A Crash Course in Data Science, John Hopkins University | Coursera, 2023
+  - Master Course in Full Stack Development, Great Learning, 2023
+  - Master Course in Full Stack Development, Abdul Bari | Udemy, 2023
+  - SQL(Basics) Hacker Rank, 2023
 
-## 🛠️ Tech Stack
+## Internship Experience 💼
+- **PNT ACADEMY | Data Science and Analytics Extern**  
+  Delved into the world of data science, applying methodologies to derive actionable insights and develop predictive models.
 
-- **Languages**: Python, Java, C
-- **Web Development**: HTML, CSS, JavaScript, React JS
-- **Data Science**: Pandas, NumPy, Matplotlib
-- **Machine Learning**: Scikit-learn, TensorFlow
-- **Tools**: VS Code, Jupyter Notebook, Git
+- **ELECTRO CLOUD LABS | MERN Stack Developer Extern**  
+  Gained practical experience in web development, contributing to the creation of user-friendly and functional e-commerce platforms.
 
-## 📊 GitHub Stats
+## Technical Skills 💻
+- **⌨️ Languages:** C, Java, Python
+- **📈 Data Tools:** NumPy, Pandas, Matplotlib, Seaborn
+- **🤖 Machine Learning:** Scikit-learn, TensorFlow, Neural Networks
+- **🕸️ Web Development:** HTML, CSS, JavaScript, React JS, Node JS
+- **📝 Databases:** MySQL, MongoDB
+- **🔨 Tools:** VS Code, Power BI, Jupyter Notebook, Git
 
-!Manoj's GitHub Stats
+## Achievements 🏆
+- **Research Paper Publication 📝**  
+  Presented a paper on futuristic scopes of Neuralink and alternate solutions for vision impairment.
 
-## 🌐 Connect with Me
+- **Hackathon Finalist 🏅**  
+  Secured finalist position in a college-hosted hackathon, showcasing problem-solving abilities and teamwork skills.
 
-!LinkedIn
-!Twitter
-!Portfolio
+## Let's Connect! 🤝
+Feel free to reach out to me for collaborations, discussions, or just to say hello! You can find me on
+<i class="fa-brands fa-linkedin" style="color: #74C0FC;"></i>[LinkedIn](https://www.linkedin.com/in/yourprofile).
 
-## 🌈 Fun Facts
-
-- I once wrote a Python script to generate haikus about coffee.
-- My favorite emoji is 🚀 because it represents progress and adventure.
-- I believe in the power of open-source and community-driven development.
-
-Feel free to explore my repositories, contribute, and let's build something amazing together! 🌟
